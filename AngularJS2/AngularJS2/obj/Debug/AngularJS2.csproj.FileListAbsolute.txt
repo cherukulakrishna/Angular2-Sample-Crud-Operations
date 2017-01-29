@@ -1,0 +1,74 @@
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\csc.exe
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\vbc.exe
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\AngularJS2.dll.config
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\AngularJS2.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\AngularJS2.pdb
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Helpers.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Mvc.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Razor.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Webpages.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Razor.xml
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Webpages.xml
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Helpers.xml
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\bin\System.Web.Mvc.xml
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\obj\Debug\AngularJS2.csprojResolveAssemblyReference.cache
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\obj\Debug\AngularJS2.dll
+C:\Users\Chikkanti\documents\visual studio 2015\Projects\AngularJS2\AngularJS2\obj\Debug\AngularJS2.pdb
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\csc.exe
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\vbc.exe
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\AngularJS2.dll.config
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\AngularJS2.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\AngularJS2.pdb
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Helpers.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Mvc.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Razor.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Webpages.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Razor.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Webpages.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Helpers.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Mvc.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\obj\Debug\AngularJS2.csprojResolveAssemblyReference.cache
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\obj\Debug\AngularJS2.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\obj\Debug\AngularJS2.pdb
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\Newtonsoft.Json.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Net.Http.Formatting.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Http.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Http.WebHost.dll
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\Newtonsoft.Json.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Net.Http.Formatting.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Http.xml
+C:\Users\Krishna Reddy\eclipse\Downloads\AngularJS2 - Setup\AngularJS2\bin\System.Web.Http.WebHost.xml
